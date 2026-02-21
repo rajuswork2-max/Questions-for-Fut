@@ -1,4 +1,4 @@
-# 📘 Interview Question Paper — Set 3
+
 ## 20 Easy Questions with Detailed Answers per Subject
 
 ---
